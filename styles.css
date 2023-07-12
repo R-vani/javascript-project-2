@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bk{
+    border: 5px solid black;
+    padding: 5px;
+    width: 350px;
+    background-color: rgb(214, 66, 91);
+}
